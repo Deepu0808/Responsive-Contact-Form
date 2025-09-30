@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Us</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+  <div class="contact-container">
+    <div class="form-box">
+      <h2>Contact Us</h2>
+      <form id="contactForm">
+        <div class="input-group">
+          <i class="fa-solid fa-user"></i>
+          <input type="text" id="username" placeholder="Your Name" />
+          <small class="error-msg"></small>
+        </div>
+
+        <div class="input-group">
+          <i class="fa-solid fa-envelope"></i>
+          <input type="email" id="email" placeholder="Your Email" />
+          <small class="error-msg"></small>
+        </div>
+
+        <div class="input-group">
+          <i class="fa-solid fa-phone"></i>
+          <input type="text" id="phone" placeholder="Your Phone" />
+          <small class="error-msg"></small>
+        </div>
+
+        <div class="input-group">
+          <i class="fa-solid fa-comment"></i>
+          <textarea id="message" placeholder="Your Message"></textarea>
+          <small class="error-msg"></small>
+        </div>
+
+        <div class="btn-group">
+          <button type="submit" class="send-btn">Send →</button>
+          <button type="button" id="resetBtn" class="reset-btn">Reset ✖</button>
+        </div>
+
+        <p id="successMsg" class="success"></p>
+      </form>
+    </div>
+
+    <div class="social-box">
+      <h3>Follow us</h3>
+      <ul>
+        <li><i class="fab fa-facebook"></i> Facebook</li>
+        <li><i class="fab fa-instagram"></i> Instagram</li>
+        <li><i class="fab fa-twitter"></i> Twitter</li>
+        <li><i class="fab fa-youtube"></i> YouTube</li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
