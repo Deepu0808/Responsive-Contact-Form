@@ -49,32 +49,13 @@ JavaScript (DOM Manipulation, Regex, LocalStorage)
 Font Awesome for icons
 
 ## 📂 File Structure
-Contact-Form-Validation/
+Responsive-Contact-Form/
 │
-├─ index.html         # Main HTML page
-├─ style.css          # Stylesheet
-├─ script.js          # JavaScript for validation & localStorage
-├─ preview.png        # Screenshot for README
-└─ README.md          # This file
----
-
-## 🚀 Getting Started
-
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your browser.
-3. Start filling out the form and see the real-time validation in action.
-4. Try the Reset button to clear the form and localStorage data.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Support
-
-If you found this project helpful, consider giving it a star on GitHub. Your support means a lot to me!
-
-
+├─ index.html             # Main HTML page
+├─ css/
+│   └─ style.css          # Stylesheet
+├─ js/
+│   └─ script.js          # JavaScript for validation & localStorage
+├─ assets/
+│   └─ preview.png        # Screenshot for README
+└─ README.md              # Project documentation
