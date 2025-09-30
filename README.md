@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 # Responsive Contact Form Validation
 </p>
@@ -54,3 +55,7 @@ Contact-Form-Validation/
 ├─ script.js          # JavaScript for validation & localStorage
 ├─ preview.png        # Screenshot for README
 └─ README.md          # This file
+=======
+# responsive-contact-form
+Responsive Contact Form with Real-time Validation, Local Storage Support, and Reset Button built with HTML | CSS | JavaScript.
+>>>>>>> 64296d4bd774164f43c02dc4684c95b405d96ee5
