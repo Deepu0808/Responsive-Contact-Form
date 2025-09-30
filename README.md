@@ -56,7 +56,25 @@ Contact-Form-Validation/
 ├─ script.js          # JavaScript for validation & localStorage
 ├─ preview.png        # Screenshot for README
 └─ README.md          # This file
-=======
-# responsive-contact-form
-Responsive Contact Form with Real-time Validation, Local Storage Support, and Reset Button built with HTML | CSS | JavaScript.
->>>>>>> 64296d4bd774164f43c02dc4684c95b405d96ee5
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in your browser.
+3. Start filling out the form and see the real-time validation in action.
+4. Try the Reset button to clear the form and localStorage data.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Support
+
+If you found this project helpful, consider giving it a star on GitHub. Your support means a lot to me!
+
+
