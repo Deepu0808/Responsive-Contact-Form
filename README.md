@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
 # Responsive Contact Form Validation
 </p>
@@ -59,3 +59,14 @@ Responsive-Contact-Form/
 ├─ assets/
 │   └─ preview.png        # Screenshot for README
 └─ README.md              # Project documentation
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository or download the zip file.
+2. Extract the contents to a folder.
+3. Open `index.html` in a web browser to view the form.
+4. Start customizing the form by editing the HTML, CSS, and JavaScript files.
+
+
