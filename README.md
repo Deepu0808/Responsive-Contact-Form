@@ -1,5 +1,5 @@
-
 <p align="center">
+
 # Responsive Contact Form Validation
 </p>
 
